@@ -44,7 +44,3 @@ jupyter notebook
 - Qiskit
 - Jupyter Notebook
 - IBM Quantum account
-
-## Usage
-
-Built for learning and practice.
